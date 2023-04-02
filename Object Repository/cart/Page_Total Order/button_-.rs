@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_-</name>
+   <tag></tag>
+   <elementGuidId>0ddcd880-6dae-4cfd-a27c-31c69ce7342b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-success.me-2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3b675be2-9415-47ce-9583-17e0976941c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>109df4fa-f661-41f7-b632-9cecfae5ed50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>updateCartItemQuantity('2', -1)</value>
+      <webElementGuid>2b22c097-7ea8-4a1a-bd93-e3cb700466e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-success me-2</value>
+      <webElementGuid>13610846-456c-487d-8511-e40eb092c388</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>-</value>
+      <webElementGuid>fe9724c5-ffb5-44d0-8cfb-e320ae4a2fac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/section[@class=&quot;order mt-4&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row g-5&quot;]/div[@class=&quot;col-md-7 col-lg-8 p-3 rounded-3 border shadow-lg&quot;]/form[1]/ul[@class=&quot;list-group mb-3&quot;]/li[@class=&quot;list-group-item d-flex justify-content-between lh-sm align-items-center&quot;]/div[@class=&quot;d-flex&quot;]/button[@class=&quot;btn btn-success me-2&quot;]</value>
+      <webElementGuid>2ba86dbb-6b6f-47a6-89dd-98536a0f9c49</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>dd771336-2dd2-4190-a1af-8de78cc9c5ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='THB : 45'])[2]/following::button[1]</value>
+      <webElementGuid>09788053-dd33-4e56-bfb2-fca162109ecf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kaw Mun Kai-Tod'])[3]/following::button[1]</value>
+      <webElementGuid>e1f6d167-c57d-4c33-8d75-eeba8dce1400</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='+'])[2]/preceding::button[1]</value>
+      <webElementGuid>ee3512d9-564c-4dd8-a96b-9e183d3f513f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Billing address'])[1]/preceding::button[2]</value>
+      <webElementGuid>b7b1ab29-30f5-411a-ac5c-71d4f184fbe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div[2]/button</value>
+      <webElementGuid>a6c19d52-e186-4464-b49f-c17a658c8eb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '-' or . = '-')]</value>
+      <webElementGuid>4f40e589-82a5-4eb9-9a29-399069ef004b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

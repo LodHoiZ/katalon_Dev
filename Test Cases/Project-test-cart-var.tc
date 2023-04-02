@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Project-test-cart-var</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2b3f0b33-f4d1-47be-a0ea-2424624f5535</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6dee6449-cc68-4ab6-b51b-a00dbd020b13</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5aea1cd7-6140-4c82-ae9a-78b96a8857ef</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>1b3572d4-8014-4494-8c1d-cca7f4e49b18</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6dee6449-cc68-4ab6-b51b-a00dbd020b13</id>
+      <masked>false</masked>
+      <name>Your_username2</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5aea1cd7-6140-4c82-ae9a-78b96a8857ef</id>
+      <masked>false</masked>
+      <name>Your_address</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>1b3572d4-8014-4494-8c1d-cca7f4e49b18</id>
+      <masked>false</masked>
+      <name>Your_zip</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Project-test-admin-var</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0f7eb201-0912-4748-9122-a5b30db7718c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>feaab07b-382f-43b6-89b3-92c03e03feac</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>feaab07b-382f-43b6-89b3-92c03e03feac</id>
+      <masked>false</masked>
+      <name>Your_username</name>
+   </variable>
+</TestCaseEntity>
